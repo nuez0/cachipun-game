@@ -1,0 +1,1 @@
+enum OperatorType { equal, different, winsLeft, winsRight }
